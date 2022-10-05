@@ -521,7 +521,7 @@ display:grid;
   height: 322px;
   background-color: var(--container-color);
   text-align: center;
-  padding: 3.5rem 1rem;
+  padding: 2.5rem 1rem;
   border-radius: 7.25rem;
   transition: background .4s; /* for dark mode animation */
 }
